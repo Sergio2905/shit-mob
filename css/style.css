@@ -973,6 +973,7 @@ body._lock {
   border: 1.5px solid #000;
   padding: 44px 28px;
   position: relative;
+  background: var(--white);
 }
 
 .projects__label {
