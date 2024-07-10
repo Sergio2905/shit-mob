@@ -281,11 +281,10 @@ body._lock {
 
 .splash {
   padding: 30px 0;
-  flex: 1 1 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: var(--app-height);
+  max-height: var(--app-height);
 }
 
 .splash__main {
