@@ -1389,7 +1389,7 @@ body._lock {
 }
 
 .modal__wrapper {
-  min-height: 100vh;
+  height: 100%;
   padding: 15px 0 0;
   position: relative;
   display: flex;
