@@ -1467,9 +1467,11 @@ body._lock {
   margin-bottom: 26px;
   max-width: 301px;
   width: 100%;
+  display: flex;
 }
 
 .modal__input input {
+  width: 100%;
   padding: 10px 16px;
   border: 2px solid #000;
   border-radius: 12px;
