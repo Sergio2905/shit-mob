@@ -984,7 +984,7 @@ body._lock {
   flex-direction: column;
   align-items: center;
   border-radius: 36px;
-  border: 1.5px solid #000;
+  border-top: 1.5px solid #000;
   padding: 28px;
   position: relative;
   background: var(--white);
